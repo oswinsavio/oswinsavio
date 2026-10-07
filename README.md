@@ -1,6 +1,6 @@
 # Hey there! I'm Oswin Concessao
 
-Data Scientist based in Dubai 🇦🇪
+Data Scientist based in Dubai, UAE
 
 I build data systems that actually get used — pipelines, 
 reconciliation systems, and ML-driven analytics across 
