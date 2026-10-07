@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there fellow developer, I'm Oswin Concessao
 
-<!--
-**oswinsavio/oswinsavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist based in Dubai 🇦🇪
 
-Here are some ideas to get you started:
+I build data systems that actually get used — pipelines, 
+reconciliation systems, and ML-driven analytics across 
+financial services, advertising, and law enforcement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Python · SQL · Apache Spark · Hadoop · Power BI · Tableau  
+TensorFlow · PyTorch · Selenium · AWS · Google Cloud Platform
+
+## Featured Projects
+→ Gait Biometric System — custom SDK, 9 cameras, 80–85% accuracy.
+
+## Let's connect
+[LinkedIn](https://www.linkedin.com/in/oswin-concessao/) · oswin.savio@gmail.com
+
+🟢 Open to Data Science roles in Dubai
