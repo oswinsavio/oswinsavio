@@ -1,4 +1,4 @@
-# Hey there fellow developer, I'm Oswin Concessao
+# Hey there! I'm Oswin Concessao
 
 Data Scientist based in Dubai 🇦🇪
 
